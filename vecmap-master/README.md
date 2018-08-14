@@ -1,4 +1,4 @@
-转载自论文[A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings]
+转载
 VecMap (cross-lingual word embedding mappings)
 ==============
 
